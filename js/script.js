@@ -11,7 +11,6 @@ class impuesto {
 
 const impuesto1 = new impuesto ("Basico", 0.25, 25);
 const impuesto2 = new impuesto ("Provincial", 0.30,30);
-const impuest3 = new impuesto ("Impuesto Prueba", 0.2, 30)
 
 
 function calcularImpuestoNew () {
